@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nick Foran 👋
 
-<!--
-**4ena/4ena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4ena&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ena&theme=radical)
+
+## 🔭 What I'm working on
+- Currently working on various projects
+
+## 🌱 What I'm learning
+- Always learning new technologies
+
+## 💬 Ask me about
+- Software development, programming, and tech
+
+## 📫 How to reach me
+- Feel free to connect!
+
+## ⚡ Fun fact
+- I love coding and exploring new ideas!
