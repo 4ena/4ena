@@ -6,11 +6,7 @@
 
 ## About
 
-Hi, I'm Nick Foran. I specialize in building embedded AI systems and sensors, with a strong interest in deep learning and computer vision. I actively participate in projects and hackathons to advance my skills in these areas.
-
-## What I'm working on
-
-- Currently working on various projects
+Hi, I'm Nick Foran. I have an interest in building embedded AI systems and multimodal language models. 
 
 ## How to reach me
 
